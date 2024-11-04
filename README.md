@@ -1,4 +1,4 @@
-# LITA-PROJECT
+![WhatsApp Image 2024-11-04 at 1 26 58 PM (2)](https://github.com/user-attachments/assets/91ad2ad6-a83f-4295-a9cc-4ce148ae9ff1)# LITA-PROJECT
 ## Project Title: Sales Analysis for Data-Driven Decision Making
 
 ## Project Description:
@@ -21,7 +21,7 @@ This project aims to analyze sales data to identify trends, patterns, and insigh
 The project utilizes a dataset containing sales transactions, customer information, and product data
 
 ## Tools Used
-- Microsoft Ecxel, Data clearning
+- Microsoft Ecxel, Data clearning ,pivot table
 - SQL( structured query language for quering data
 - Power BI Analysis and visualization
 
@@ -36,7 +36,10 @@ The project utilizes a dataset containing sales transactions, customer informati
  
 
 
-[LITTA PROJECT.pdf](https://github.com/user-attachments/files/17624149/LITTA.PROJECT.pdf)
+![Uploading WhatsApp Image 2024-11-04 at 1.26.58 PM (2).jpeg…]()
+
+
+
 
 
 ## Expected Outcomes:*
