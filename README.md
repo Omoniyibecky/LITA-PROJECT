@@ -33,7 +33,11 @@ The project utilizes a dataset containing sales transactions, customer informati
   - Total revenue by quantity: identifying the pattern and fluctuation over time
   - Top region by sales: Locating geographical of high sales 
   - Top Best Selling product:Recognising the most popular purchasing product
-- 
+ 
+
+
+[LITTA PROJECT.pdf](https://github.com/user-attachments/files/17624149/LITTA.PROJECT.pdf)
+
 
 ## Expected Outcomes:*
 
