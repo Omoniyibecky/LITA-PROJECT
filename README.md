@@ -15,7 +15,12 @@ This project aims to analyze sales data to identify trends, patterns, and insigh
 
 ## Dataset:*
 
-The project utilizes a dataset containing sales transactions, customer information, and product data.
+The project utilizes a dataset containing sales transactions, customer information, and product data
+
+## Tools Used
+- Microsoft Ecxel, Data clearning
+- SQL( structured query language for quering data
+- Power BI Analysis and visualization
 
 ## Expected Outcomes:*
 
