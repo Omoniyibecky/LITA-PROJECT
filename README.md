@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-11-04 at 1 26 58 PM (2)](https://github.com/user-attachments/assets/91ad2ad6-a83f-4295-a9cc-4ce148ae9ff1)# LITA-PROJECT
+# LITA-PROJECT
 ## Project Title: Sales Analysis for Data-Driven Decision Making
 
 ## Project Description:
@@ -36,7 +36,6 @@ The project utilizes a dataset containing sales transactions, customer informati
  
 
 
-![Uploading WhatsApp Image 2024-11-04 at 1.26.58 PM (2).jpeg…]()
 
 
 
