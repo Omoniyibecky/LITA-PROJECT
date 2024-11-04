@@ -7,7 +7,7 @@ This project aims to analyze sales data to identify trends, patterns, and insigh
 
 ## Project Objectives:
 
-- Analze the total sales for each product category.
+- Analyze the total sales for each product category.
 - find the number of sales transactions in each region.
 -  find the highest-selling product by total sales value.
 - calculate total revenue per product.
