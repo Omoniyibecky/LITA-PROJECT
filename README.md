@@ -37,6 +37,7 @@ The project utilizes a dataset containing sales transactions, customer informati
 
 
 
+![LITTA PROJECT-1](https://github.com/user-attachments/assets/a8e9e39f-c235-40ce-b9c9-1a3b0c7fd4e1)
 
 
 
