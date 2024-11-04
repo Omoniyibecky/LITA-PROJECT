@@ -1,5 +1,5 @@
 # LITA-PROJECT
-## Project Title:* Sales Analysis for Data-Driven Decision Making
+## Project Title: Sales Analysis for Data-Driven Decision Making
 
 ## Project Description:
 
@@ -25,11 +25,14 @@ The project utilizes a dataset containing sales transactions, customer informati
 - SQL( structured query language for quering data
 - Power BI Analysis and visualization
 
-  ## Key Insights Uncovered 
-
-- Total revenue by quantity: identifying the pattern and fluctuation over time
-- Top region by sales: Locating geographical of high sales 
-- Top Best Selling product:Recognising the most popular purchasing product
+  ## Key Insights Uncovered   `
+  - Total sales
+  - Average sales
+  - Total quantity sold
+  - Total Product
+  - Total revenue by quantity: identifying the pattern and fluctuation over time
+  - Top region by sales: Locating geographical of high sales 
+  - Top Best Selling product:Recognising the most popular purchasing product
 - 
 
 ## Expected Outcomes:*
