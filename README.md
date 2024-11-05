@@ -105,7 +105,34 @@ THEN 1 ELSE 0 END) = 0 ```
 
 
 
-## Expected Outcomes:*
+
+
+
+
+
+
+
+
+
+![LITTA PROJECT-1](https://github.com/user-attachments/assets/23e6e6e4-08aa-44e8-8fa9-f362574c8be7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Expected Outcomes:
 
 1. Improved sales forecasting
 2. Enhanced customer insights
