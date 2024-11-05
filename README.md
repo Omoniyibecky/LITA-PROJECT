@@ -100,11 +100,6 @@ THEN 1 ELSE 0 END) = 0
 ```
 ## Data Visualizaion
 
-
-
-
-
-
 ## Expected Outcomes:*
 
 1. Improved sales forecasting
@@ -114,11 +109,40 @@ THEN 1 ELSE 0 END) = 0
 5. Better resource allocation
 
  
+## Project Title: HR Analysis for Data-Driven Decision Making
+
+
+Description:
+
+The Employee Attrition dataset contains information about employees who have left the organization, including demographic, job-related, and performance data.
+
+Analysis Goals:
+
+1. Identify factors contributing to employee attrition
+2. Predict employee turnover risk
+3. Develop strategies to reduce attrition rates
+4. Improve employee retention and satisfaction
+
+
+Key Performance Indicators (KPIs):
+
+1. Attrition Rate
+2. Turnover Rate
+3. Retention Rate
+4. Average Tenure
+5. Time-to-Fill (vacant positions)
+6. Cost-per-Hire
+7. Employee Satisfaction (eNPS)
 
 
 
+Actionable Insights:
 
-
+1. Identify high-risk employees for targeted interventions
+2. Develop training programs to address skill gaps
+3. Improve work-life balance and employee well-being
+4. Enhance compensation and benefits packages
+5. Foster open communication and feedback channels
 
 
 
