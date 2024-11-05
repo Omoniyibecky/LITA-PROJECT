@@ -35,7 +35,7 @@ The project utilizes a dataset containing sales transactions, customer informati
   - Top Best Selling product:Recognising the most popular purchasing 
 
 
-  ```
+  ```SQL
  
  Select*
 from  [dbo].[SALES CSV]
@@ -95,15 +95,15 @@ SELECT Product FROM [dbo].[SALES CSV]
 GROUP BY Product
 HAVING SUM(CASE 
 WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31' 
-THEN 1 ELSE 0 END) = 0
+THEN 1 ELSE 0 END) = 0 ```
 
-```
+
 ## Data Visualizaion
 
 
 
 
-![LITTA PROJECT-1](https://github.com/user-attachments/assets/2477c6b9-2094-4a0c-aac0-9390cbbecdc8)
+
 
 ## Expected Outcomes:*
 
