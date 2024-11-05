@@ -160,10 +160,11 @@ Key Performance Indicators (KPIs):
 5. Time-to-Fill (vacant positions)
 6. Cost-per-Hire
 7. Employee Satisfaction (eNPS)
+## #Data Visualization
 
 
-![LITA HR REPORT-1](https://github.com/user-attachments/assets/edef99bb-3d64-4ae2-ad06-e2c82886040b)
 
+![LITA HR REPORT-1](https://github.com/user-attachments/assets/772eee06-4060-45ef-910e-94aa8a141b35)
 
 
 
