@@ -162,6 +162,10 @@ Key Performance Indicators (KPIs):
 7. Employee Satisfaction (eNPS)
 
 
+![LITA HR REPORT-1](https://github.com/user-attachments/assets/edef99bb-3d64-4ae2-ad06-e2c82886040b)
+
+
+
 
 Actionable Insights:
 
