@@ -164,7 +164,7 @@ Key Performance Indicators (KPIs):
 
 
 
-![LITA HR REPORT-1](https://github.com/user-attachments/assets/772eee06-4060-45ef-910e-94aa8a141b35)
+
 
 
 
