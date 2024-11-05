@@ -100,6 +100,11 @@ THEN 1 ELSE 0 END) = 0
 ```
 ## Data Visualizaion
 
+
+
+
+![LITTA PROJECT-1](https://github.com/user-attachments/assets/2477c6b9-2094-4a0c-aac0-9390cbbecdc8)
+
 ## Expected Outcomes:*
 
 1. Improved sales forecasting
