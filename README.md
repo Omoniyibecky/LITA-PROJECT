@@ -113,21 +113,7 @@ THEN 1 ELSE 0 END) = 0 ```
 
 
 
-
-![LITTA PROJECT-1](https://github.com/user-attachments/assets/23e6e6e4-08aa-44e8-8fa9-f362574c8be7)
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/4e805c81-2a62-4c09-8b21-52297b84d091)
 
 
 
