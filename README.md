@@ -41,56 +41,55 @@ The project utilizes a dataset containing sales transactions, customer informati
 from  [dbo].[SALES CSV]
 
 ----Retreving total sales for each product category----
-
-Shoes	14402
-Jacket	5452
-Hat	15929
-Socks	7921
-Shirt	12388
-Gloves	12369
+- Shoes	14402
+-Jacket	5452
+- Hat	15929
+- Socks	7921
+- Shirt	12388
+- Gloves	12369
 
 ---- Numbe rof sale  transation in each region___
 
-North	2481
-East	2483
-South	2480
-West	2477
+- North	2481
+- East	2483
+- South	2480
+- West	2477
 
 ----Highes selling product by -total sales value
 
-Shoes	613380
+- Shoes	613380
 
 
 ------Calculate the total revenue per product----
 
-Hat	1991
-Shoes	1987
-Jacket	1488
-Shirt	1487
-Gloves	1484
-Socks	1484
+- Hat	1991
+- Shoes	1987
+- Jacket	1488
+- Shirt	1487
+- Gloves	1484
+- Socks	1484
 
 -----5 Top customers by total purchase  amount----
 
-Cus1115	138
-Cus1249	123
-Cus1302	138
-Cus1431	138
-Cus1005	138
+- Cus1115	138
+- Cus1249	123
+- Cus1302	138
+- Cus1431	138
+- Cus1005	138
 
 
 ----calculate the percentage of total sales contributed by each region.---
-South	927820	44.2
-East	485925	23.1
-North	387000	18.4
-West	300345	14.3
+- South	927820	44.2
+- East	485925	23.1
+- North	387000	18.4
+- West	300345	14.3
 
 
 -----identif poducts with no sales in the last quater,
     
-Jacket
-Socks
-Shirt ```
+- Jacket
+- Socks
+- Shirt ```
 
 
 ## Data Visualizaion
