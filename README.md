@@ -16,7 +16,7 @@ This project aims to analyze sales data to identify trends, patterns, and insigh
 - calculate the percentage of total sales contributed by each region.
 - identify products with no sales in the last quarter.
   
-## Dataset:
+## Dataset source
 
 The project utilizes a dataset containing sales transactions, customer information, and product data
 
@@ -96,34 +96,17 @@ from  [dbo].[SALES CSV]
 POWER BI DASHBOARD
 
 
-
-
-
-![LITTA PROJECT-1](https://github.com/user-attachments/assets/26a005d4-2e60-41d1-ae71-e0cce5d95e5a)
-
-
-
-
-
-
-
-
-
+![LITTA PROJECT-1](https://github.com/user-attachments/assets/26a005d4-2e60-41d1-ae71-e0cce5d95e5a
 
 ![image](https://github.com/user-attachments/assets/4e805c81-2a62-4c09-8b21-52297b84d091)
 
 
 
 
-## Expected Outcomes:
-
-1. Improved sales forecasting
-2. Enhanced customer insights
-3. Data-driven decision-making
-4. Increased revenue
-5. Better resource allocation
+## RECOMMENDATION
 
 ##  Project Title: CUSTOMER Analysis for Data-Driven Decision Making
+
 
 ## Primary Aims:
 
@@ -141,7 +124,6 @@ POWER BI DASHBOARD
 - find the top 3 regions by subscription cancellations.
 - find the total number of active and canceled subscription
 
-By analyzing a customers' dataset, businesses can gain valuable insights to inform strategic decisions, improve customer experiences, and drive growth.
 
 
 
