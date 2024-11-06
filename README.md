@@ -124,21 +124,22 @@ POWER BI DASHBOARD
 5. Better resource allocation
 
 ##  Project Title: CUSTOMER Analysis for Data-Driven Decision Making
-Primary Aims:
+
+## Primary Aims:
 
 1. Customer Understanding: Gain insights into customer behavior, preferences, and needs.
 2. Business Growth: Inform strategies to increase revenue, customer retention, and market share.
 3. Personalization: Enable tailored marketing, sales, and customer service experiences.
 
-Specific Objectives:
-
-1. Segmentation: Identify distinct customer groups based on demographics, behavior, or preferences.
-2. Profiling: Create detailed customer profiles to inform targeted marketing.
-3. Predictive Analytics: Forecast customer churn, purchase behavior, or lifetime value.
-4. Customer Journey Mapping: Understand touchpoints and pain points across the customer lifecycle.
-5. Market Research: Analyze customer feedback, sentiment, and satisfaction.
-6. Product/Service Development: Inform development of new offerings or features.
-7. Customer Retention: Identify at-risk  
+## Specific Objectives:
+- retrieve the total number of customers from each region.
+ - find the most popular subscription type by the number of customers.
+- find customers who canceled their subscription within 6 months.
+- calculate the average subscription duration for all customers.
+- find customers with subscriptions longer than 12 months.
+- calculate total revenue by subscription type.
+- find the top 3 regions by subscription cancellations.
+- find the total number of active and canceled subscription
 
 By analyzing a customers' dataset, businesses can gain valuable insights to inform strategic decisions, improve customer experiences, and drive growth.
 
