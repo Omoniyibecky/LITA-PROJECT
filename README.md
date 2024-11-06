@@ -126,6 +126,45 @@ POWER BI DASHBOARD
 - find the top 3 regions by subscription cancellations.
 - find the total number of active and canceled subscription
 
+``SQL
+
+    SELECT*
+     FROM[dbo].[Customer Data]
+
+
+--- retrieving the total number of customers from each region.----
+
+- East	5
+- North	5
+- South	5
+- West	5
+
+
+
+--- find the most popular subscription type by the number of customers.----
+
+- Basic	10
+
+---- find customers who canceled their subscription within 6 months.---
+
+- NULL
+
+-----calculate the average subscription duration for all customers----
+- 365
+ 
+ ------find customers with subscriptions longer than 12 months-----
+
+ - NULL
+
+---- calculate total revenue by subscription type.-----
+- Basic	23116
+- Premium	8504
+- Standard	9845
+
+----find the top 3 regions by subscription cancellations.----
+
+ - NULL
+
 
 
 
