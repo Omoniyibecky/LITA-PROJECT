@@ -1,4 +1,6 @@
-# LITA-PROJECT
+  # LITA-PROJECT
+
+
 ## Project Title: Sales Analysis for Data-Driven Decision Making
 
 ## Project Description:
@@ -161,18 +163,12 @@ Key Performance Indicators (KPIs):
 ## #Data Visualization
 
 
-
-
-
-
-
-Actionable Insights:
-
+## RECOMENDATION:
 1. Identify high-risk employees for targeted interventions
 2. Develop training programs to address skill gaps
 3. Improve work-life balance and employee well-being
 4. Enhance compensation and benefits packages
-5. Foster open communication and feedback channels
+5. Foster open communication and feedback chart
 
 
 
