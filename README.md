@@ -79,10 +79,10 @@ from  [dbo].[SALES CSV]
 
 
 ----calculate the percentage of total sales contributed by each region.---
-- South	927820	44.2
-- East	485925	23.1
-- North	387000	18.4
-- West	300345	14.3
+- South	927820  	(44.2%)
+- East	485925	 (23.1%)
+- North	387000	 (18.4%)
+- West	300345	 (14.3%)
 
 
 -----identif poducts with no sales in the last quater,
