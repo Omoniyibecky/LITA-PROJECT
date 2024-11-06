@@ -99,11 +99,13 @@ THEN 1 ELSE 0 END) = 0 ```
 
 
 ## Data Visualizaion
+POWER BI DASHBOARD
 
 
 
 
 
+![PIVOT PROJECT-1](https://github.com/user-attachments/assets/df1de2e3-d144-45d0-b9fb-4294b2721a25)
 
 
 
