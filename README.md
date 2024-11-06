@@ -99,7 +99,8 @@ POWER BI DASHBOARD
 
 
 
-![PIVOT PROJECT-1](https://github.com/user-attachments/assets/df1de2e3-d144-45d0-b9fb-4294b2721a25)
+![LITTA PROJECT-1](https://github.com/user-attachments/assets/26a005d4-2e60-41d1-ae71-e0cce5d95e5a)
+
 
 
 
