@@ -205,18 +205,50 @@ Analysis Goals:
 - Monthly income by department
 - Job level by attrition
   
-## Data Visualizaion
-
+## Data Visualizaion 
 
 ![LITA HR REPORT-1](https://github.com/user-attachments/assets/4c4a26d2-6212-4220-ba19-3717897e6853)
 
 
-## RECOMENDATION:
-1. Identify high-risk employees for targeted interventions
-2. Develop training programs to address skill gaps
-3. Improve work-life balance and employee well-being
-4. Enhance compensation and benefits packages
-5. Foster open communication and feedback chart
+
+  ## INSIGHT AND RECOMENDATION
+  
+- ﻿ Employee Count for Male (882) was higher than Female (588).﻿﻿
+﻿﻿
+- ﻿﻿Male accounted for 60.00%  of Employee Count.﻿﻿
+﻿﻿
+
+- Performance rating by gender: No got the highest  83%than Yes with 16%
+
+- Job satisfaction by attrition count : No got the highest 80.4%   thenes with 28%
+
+
+- Monthly income by attrition count: No got 71.7% higher than Yes with 28%
+
+- Monthly income by Education field: life sciences got the highest had 1.757.87%  than human resources with 19
+
+- Monthly income by department:  sales 22%, HR 4%, research science 20%
+- Job level by attrition: No got 73.2% higher than Yes with 26.8%
+## RECOMENDATION
+The data reviewed that the employee was not satisfied with their job role, job levels, and monthly incomes,
+I discovered that some of them were not promoted, which is why they didn't perform well in their task or role 
+Also noticed that roles were not given based on their education field
+
+-  I Recommend that HR  should recruit employees based on their education field to fit the roles
+
+- HR should aslo   promote employee and increase their salary.
+- Identify high-risk employees for targeted interventions
+-  Develop training programs to address skill gaps
+-  Improve work-life balance and employee well-being
+-  Enhance compensation and benefits packages
+- Foster open communication and feedback chart
+
+
+
+  
+
+
+
 
 
 
