@@ -167,11 +167,13 @@ POWER BI DASHBOARD
 
 
 
+## Data Visualizaion
 
 
 
 
 
+![LITTA PROJECT-2](https://github.com/user-attachments/assets/55239fac-3849-4ead-bf4d-2543fbbf6eb5)
 
 
  
@@ -202,11 +204,11 @@ Analysis Goals:
 - Monthly income by Education field
 - Monthly income by department
 - Job level by attrition
-## #Data Visualization
+  
+## Data Visualizaion
 
 
-
-
+![LITA HR REPORT-1](https://github.com/user-attachments/assets/4c4a26d2-6212-4220-ba19-3717897e6853)
 
 
 ## RECOMENDATION:
