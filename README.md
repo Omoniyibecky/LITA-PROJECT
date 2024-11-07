@@ -211,7 +211,7 @@ Analysis Goals:
 
 
 
-  ## INSIGHT AND RECOMENDATION
+  ## INSIGHTS AND RECOMMENDATION
   
 - ﻿ Employee Count for Male (882) was higher than Female (588).﻿﻿
 ﻿﻿
@@ -229,6 +229,7 @@ Analysis Goals:
 
 - Monthly income by department:  sales 22%, HR 4%, research science 20%
 - Job level by attrition: No got 73.2% higher than Yes with 26.8%
+  
 ## RECOMMENDATION
 The data reviewed that the employee was not satisfied with their job role, job levels, and monthly incomes,
 I discovered that some of them were not promoted, which is why they didn't perform well in their task or role 
