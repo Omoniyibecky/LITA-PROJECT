@@ -189,17 +189,24 @@ Analysis Goals:
 3. Develop strategies to reduce attrition rates
 4. Improve employee retention and satisfaction
 
+## The argument used for this analysis includes:
 
-Key Performance Indicators (KPIs):
-
-1. Attrition Rate
-2. Turnover Rate
-3. Retention Rate
-4. Average Tenure
-5. Time-to-Fill (vacant positions)
-6. Cost-per-Hire
-7. Employee Satisfaction (eNPS)
+- Total number of attrition
+- Attrition count
+- Current employee
+- Average age
+- Performance rating by gender
+- Job satisfaction by attrition count
+- Monthly income by attrition count
+- Current employee by gender
+- Monthly income by Education field
+- Monthly income by department
+- Job level by attrition
 ## #Data Visualization
+
+
+
+
 
 
 ## RECOMENDATION:
