@@ -95,13 +95,13 @@ from  [dbo].[SALES CSV]
 
 
 ## Data Visualizaion
-POWER BI DASHBOARD
 
 
 
 
 
-![LITTA PROJECT-1](https://github.com/user-attachments/assets/26a005d4-2e60-41d1-ae71-e0cce5d95e5a
+
+![LITTA PROJECT-1](https://github.com/user-attachments/assets/27780823-d4a0-4ada-a3f7-2855e273970c)
 
 
 
@@ -198,6 +198,27 @@ POWER BI DASHBOARD
 ![LITTA PROJECT-2](https://github.com/user-attachments/assets/55239fac-3849-4ead-bf4d-2543fbbf6eb5)
 
 
+
+ ![SQL4](https://github.com/user-attachments/assets/2a1df519-8101-4938-b6cd-77107a703db9)
+
+
+
+
+
+![SQL1](https://github.com/user-attachments/assets/845794e9-ac86-4be4-b74d-02efea2bee9f)
+
+
+
+
+
+![SQL2](https://github.com/user-attachments/assets/34747bc8-52e6-4895-bc48-bb7d27e537b8)
+
+
+
+![SQL3](https://github.com/user-attachments/assets/1c8767de-ff51-4847-a498-140c6fb39629)
+
+
+
  
 ## Project Title: HR Analysis for Data-Driven Decision Making
 
@@ -268,20 +289,4 @@ Also noticed that roles were not given based on their education field
 
 
 
-  ![SQL4](https://github.com/user-attachments/assets/2a1df519-8101-4938-b6cd-77107a703db9)
-
-
-
-
-
-![SQL1](https://github.com/user-attachments/assets/845794e9-ac86-4be4-b74d-02efea2bee9f)
-
-
-
-
-
-![SQL2](https://github.com/user-attachments/assets/34747bc8-52e6-4895-bc48-bb7d27e537b8)
-
-
-
-![SQL3](https://github.com/user-attachments/assets/1c8767de-ff51-4847-a498-140c6fb39629)
+ 
