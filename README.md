@@ -118,7 +118,7 @@ POWER BI DASHBOARD
 
 ![LITTA PROJECT-1](https://github.com/user-attachments/assets/26a005d4-2e60-41d1-ae71-e0cce5d95e5a
 
-![image](https://github.com/user-attachments/assets/4e805c81-2a62-4c09-8b21-52297b84d091)
+
 
 
 
@@ -267,11 +267,6 @@ Also noticed that roles were not given based on their education field
   ![SQL4](https://github.com/user-attachments/assets/2a1df519-8101-4938-b6cd-77107a703db9)
 
 
-
-
-
-  
-![Uploading SQL6.png…]()
 
 
 
