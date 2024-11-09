@@ -98,6 +98,24 @@ from  [dbo].[SALES CSV]
 POWER BI DASHBOARD
 
 
+
+
+
+![PIVOT PROJECT-1](https://github.com/user-attachments/assets/7d850bc8-42b9-47d0-bfb6-95f84b48131a)
+
+
+
+
+![SQL5](https://github.com/user-attachments/assets/b342eb42-b64b-40e6-861d-82a9d4f8bf06)
+
+
+
+![SQL6](https://github.com/user-attachments/assets/29fb9272-f458-40dd-a708-91ef9c72eab0)
+
+
+
+
+
 ![LITTA PROJECT-1](https://github.com/user-attachments/assets/26a005d4-2e60-41d1-ae71-e0cce5d95e5a
 
 ![image](https://github.com/user-attachments/assets/4e805c81-2a62-4c09-8b21-52297b84d091)
