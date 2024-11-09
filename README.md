@@ -101,6 +101,15 @@ POWER BI DASHBOARD
 
 
 
+![LITTA PROJECT-1](https://github.com/user-attachments/assets/26a005d4-2e60-41d1-ae71-e0cce5d95e5a
+
+
+
+
+
+
+
+
 ![PIVOT PROJECT-1](https://github.com/user-attachments/assets/7d850bc8-42b9-47d0-bfb6-95f84b48131a)
 
 
@@ -112,11 +121,6 @@ POWER BI DASHBOARD
 
 ![SQL6](https://github.com/user-attachments/assets/29fb9272-f458-40dd-a708-91ef9c72eab0)
 
-
-
-
-
-![LITTA PROJECT-1](https://github.com/user-attachments/assets/26a005d4-2e60-41d1-ae71-e0cce5d95e5a
 
 
 
