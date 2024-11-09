@@ -246,14 +246,25 @@ Also noticed that roles were not given based on their education field
 
 
 
+  ![SQL4](https://github.com/user-attachments/assets/2a1df519-8101-4938-b6cd-77107a703db9)
+
+
+
+
+
   
+![Uploading SQL6.png…]()
+
+
+
+![SQL1](https://github.com/user-attachments/assets/845794e9-ac86-4be4-b74d-02efea2bee9f)
 
 
 
 
 
+![SQL2](https://github.com/user-attachments/assets/34747bc8-52e6-4895-bc48-bb7d27e537b8)
 
 
 
-
-
+![SQL3](https://github.com/user-attachments/assets/1c8767de-ff51-4847-a498-140c6fb39629)
